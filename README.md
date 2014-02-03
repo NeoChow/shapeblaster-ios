@@ -2,6 +2,8 @@
 
 By Terence J. Grant - tjgrant [at] tatewake [dot] com
 
+Read the tutorial at Tuts+: http://gamedevelopment.tutsplus.com/articles/make-a-neon-vector-shooter-for-ios-first-steps--gamedev-14316
+
 ## License
 
 **The BSD 2-Clause License**
